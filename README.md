@@ -1,8 +1,8 @@
-Melodify 🎵
+# Melodify 🎵
 
 A modern music streaming application designed to bring your favorite tunes to life. With a seamless user experience and powerful backend, Melodify provides a platform to enjoy, organize, and manage music effortlessly.
 
-Features 🚀
+# Features 🚀
 
 Stream Music: Play songs with high-quality audio streaming.
 Create Playlists: Organize your favorite songs into custom playlists.
@@ -11,14 +11,8 @@ Admin Management: Admins can upload songs and manage playlists visible to users.
 Genre and Artist Filters: Easily explore music based on genres or artists.
 Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
 
-Tech Stack 🛠
-
-Frontend:
-React.js: Building dynamic user interfaces.
-CSS/Tailwind CSS: Styling and responsive design.
-GSAP: Advanced animations for a better user experience.
-
-Backend:
-Spring Boot: Robust backend with REST APIs.
-Java: For application logic and service layers.
-SQL: Data storage and management.
+# Tech Stack 🛠
+# Backend:
+-Spring Boot: Robust backend with REST APIs.
+-Java: For application logic and service layers.
+-SQL: Data storage and management.
